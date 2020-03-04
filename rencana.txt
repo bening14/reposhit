@@ -1,5 +1,6 @@
 paragraf-1
-paragraf-2
 agus
 budi
 ryan
+angular
+react
