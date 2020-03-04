@@ -2,5 +2,5 @@ paragraf-1
 agus
 budi
 ryan
-angular
-react
+java
+php
